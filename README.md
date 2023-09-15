@@ -13,7 +13,7 @@ Research questions are:
 ## 2. Overflow:
 
 - Data Cleaning: Conducted data cleaning to ensure data quality and accuracy, resolving inconsistencies and missing values in the dataset. The cleaned dataset contains the following variables:
-  - [ ]order_id – (A unique number to identity the order)
+  - [ ] order_id – (A unique number to identity the order)
   - [ ] user_id - (A unique number to identify the user)
   - [ ] order_number – (The number of times a user purchased at hunter) 
   - [ ] order_dow – (Day of the Week the order was made)
