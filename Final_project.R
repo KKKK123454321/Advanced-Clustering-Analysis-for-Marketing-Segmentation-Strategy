@@ -11,7 +11,6 @@ library(psych)
 library(ggcorrplot)
 library(flexclust)
 
-setwd('C:\\Users\\Jason Xu\\Desktop\\Framework_2\\Group project')
 clean = read.csv('clean_dataset.csv',header = T)
 
 #=====description of the variables=====
